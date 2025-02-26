@@ -52,6 +52,8 @@ GROQ Cloud - LLM API for response generation
 
 Python - Core development language
 
+streamlit - for UI
+
 🤝 Contributions
 
 Feel free to fork this repository and submit pull requests!
